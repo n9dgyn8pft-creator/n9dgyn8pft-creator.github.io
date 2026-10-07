@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /smeta/
 Allow: /
 
-Sitemap: https://guryanowtema2018-lgtm.github.io/sputnik/sitemap.xml
+Sitemap: https://n9dgyn8pft-creator.github.io/SPYTNIK/sitemap.xml
