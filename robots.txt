@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /smeta/
+Allow: /
+
+Sitemap: https://guryanowtema2018-lgtm.github.io/sputnik/sitemap.xml
