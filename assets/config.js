@@ -1,6 +1,6 @@
 /* Настройки сайта SPUTNIK.
    METRIKA_ID — номер счётчика Яндекс.Метрики (только цифры). 0 — Метрика выключена. */
-window.METRIKA_ID = 0;
+window.METRIKA_ID = 113535749;
 (function () {
   if (!window.METRIKA_ID) return;
   (function (m, e, t, r, i, k, a) { m[i] = m[i] || function () { (m[i].a = m[i].a || []).push(arguments); }; m[i].l = 1 * new Date();
